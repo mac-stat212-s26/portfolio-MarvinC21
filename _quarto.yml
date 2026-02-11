@@ -77,6 +77,8 @@ book:
       chapters:
       - ica/ica-sample1.qmd
       - ica/ica-sample2.qmd
+      - ica/cleaning.qmd
+      - ica/06-wrangling-1-notes.qmd
 
     - part: "Extras"
       chapters:
